@@ -1,4 +1,4 @@
-# abhi8170-faceid-mysql
+# faceid-mysql
 
 This project demonstrates a face recognition system using face-api.js on the client-side with a Node.js/Express server 
 and a MySQL database for storing face embeddings and user information. It features auto-matching capabilities and performs a liveness check.
