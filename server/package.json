@@ -1,0 +1,14 @@
+{
+  "name": "face-api-demo-server",
+  "version": "1.0.0",
+  "description": "Face recognition demo server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
